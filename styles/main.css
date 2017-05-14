@@ -1,0 +1,59 @@
+
+* {
+	border:1px solid grey!important;
+}
+
+.main{
+	display:block;
+	width:100%;
+	
+	
+
+}
+
+.logo{
+width:100%;
+padding-top:200px;
+padding-bottom:25px;
+
+
+}
+
+.logo img{
+	display:block;
+	margin:auto;
+}
+
+.search{
+width: 592px;
+height: 27px;
+margin:auto;
+position:relative;
+
+
+}
+
+.search input{
+	margin:auto;
+	position:relative;
+	width:570px;
+	height:100%;
+	margin-right:-10px;
+	
+
+}
+
+.buttons{
+	margin: 10px auto;
+	width:300px;
+}
+
+.buttons button {
+	height: 38px;
+    width: 127px;
+    margin: 0 5px;
+    color: rgb(117, 117, 117);
+    background-color: rgb(242, 242, 242);
+
+
+}
